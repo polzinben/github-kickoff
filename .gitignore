@@ -1,0 +1,11 @@
+.pynb_checkpoints/
+
+.DS_Store
+
+env/
+
+data/
+
+*.csv
+
+*.zip
