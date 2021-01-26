@@ -1,13 +1,18 @@
+# jupyter notebook checkpoints
 .ipynb_checkpoints/
-
 notebooks/.ipynb_checkpoints/
 
+# Operating System stuff
 .DS_Store
 
+# Environment folder
 env/
 
+# Data folder
 data/
 
+# Any .csv files
 *.csv
 
+# Any .zip files
 *.zip
