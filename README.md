@@ -7,9 +7,9 @@ Good Morning!  As we entering the homestretch and your focus turns to the capsto
 - README.md   
 - notebooks
     - 01_24_21_github_refresher.ipynb
-- requirements.txt
 - src
     - data_preprocessing
         - multilabel.py
     - hello_world
         - hello.py
+- requirements.txt
